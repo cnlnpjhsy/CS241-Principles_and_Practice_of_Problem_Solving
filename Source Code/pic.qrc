@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>FinalSources/mapView800grid.png</file>
+        <file>FinalSources/logo256.jpg</file>
+    </qresource>
+</RCC>
